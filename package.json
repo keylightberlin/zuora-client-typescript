@@ -1,9 +1,8 @@
 {
-  "name": "zuora-typescript-client",
+  "name": "@keylight/zuora-client-ts",
   "version": "1.0.0",
   "main": "index.ts",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/keylightberlin/zuora-typescript-client.git"
